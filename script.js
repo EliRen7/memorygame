@@ -1,4 +1,3 @@
-// https://github.com/NoraX1/Responsive-Memmory-Game
 
 const card = document.querySelectorAll('.cell')
 const front = document.querySelectorAll('.front')
@@ -62,5 +61,3 @@ function match(cardOne , cardTwo){
         }, 1000);
     }
 }
-
-// https://github.com/NoraX1/Responsive-Memmory-Game
